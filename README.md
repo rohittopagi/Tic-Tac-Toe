@@ -6,14 +6,15 @@ A responsive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🚀 Live Demo
 
-👉 **Play the Game:**  
-https://rohittopagi.github.io/Tic-Tac-Toe/
+👉 **[Play Tic-Tac-Toe Live](https://rohittopagi.github.io/Tic-Tac-Toe/)**
 
 ---
 
 ## 📸 Preview
 
-![Tic Tac Toe](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" alt="Tic Tac Toe Screenshot" width="600">
+</p>
 
 ---
 
@@ -106,7 +107,15 @@ While building this project, I practiced:
 
 **Rohit Topagi**
 
-GitHub: https://github.com/rohittopagi
+GitHub: **[@rohittopagi](https://github.com/rohittopagi)**
+
+---
+
+## 📌 Project Status
+
+✅ Completed
+
+This project is part of my JavaScript learning journey and demonstrates DOM manipulation, event handling, responsive design, and game logic implementation.
 
 ---
 
